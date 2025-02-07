@@ -1,46 +1,22 @@
-# Logboek Stage Applicatie- en Databeheer
+# 📂 Inlevermap Stagelogboek & Website
 
-Welkom bij je **stage-logboek**! Dit is de plek waar je je dagelijkse vooruitgang bijhoudt en documenteert. Zorg ervoor dat je deze repository regelmatig bijwerkt, zodat je stagebegeleider en mentor jouw voortgang kunnen volgen.
+🚀 Welkom! In deze repository kunnen jullie zowel jullie **stagelogboek** als jullie **website-opdracht** indienen. Zorg ervoor dat je de bestanden correct in de juiste map plaatst.
 
-## 📌 Wat moet je hier bijhouden?
+## 📁 Structuur
+Deze repository bevat de volgende mappen:
 
-- **Dagelijkse updates**: Noteer welke taken je hebt uitgevoerd.
-- **Successen**: Wat ging er goed?
-- **Uitdagingen**: Wat kon beter en hoe ga je het verbeteren?
-- **Problemen en oplossingen**: Welke bugs of technische uitdagingen ben je tegengekomen? Hoe heb je ze opgelost?
-- **Reflectie**: Wat heb je geleerd en hoe pas je dit toe?
+- **📜 Stagelogboek/** → Hier upload je jouw zelfgemaakte website in de vorm van een logboek. Dit logboek moet **dagelijks** worden aangevuld. ✍️
+- **🌐 Website/** → Hier plaats je je volledige website-opdracht.
 
-## 🚀 Hoe gebruik je deze repository?
+## 📌 Instructies voor indienen
+1. **📝 Stagelogboek**: Plaats je logboekwebsite in de map `Stagelogboek`. Zorg ervoor dat de website correct werkt en toegankelijk is.
+2. **💻 Website-opdracht**: Plaats alle bestanden van je website in de map `Website`. Zorg ervoor dat je project correct werkt en alle benodigde bestanden aanwezig zijn.
 
-Je bent vrij om je eigen structuur te kiezen voor het bijhouden van je logboek. Gebruik bijvoorbeeld Markdown-bestanden (`.md`) om je notities overzichtelijk te houden.
+## ⚠️ Belangrijke Richtlijnen
+- 📂 Voor de stagelogboekwebsite: zorg dat de startpagina `index.html` heet.
+- 🌍 Voor de website-opdracht: zorg dat de startpagina `index.html` heet.
+- ⏳ Upload je bestanden **tijdig** vóór de deadline van 28/02/2025 om 22:00.
+- ✅ Controleer of alles correct is ingediend voordat je de repository sluit.
 
-### Voorbeeld workflow:
+🎉 Veel succes!
 
-1. **Dagelijks bijwerken**: Noteer je updates in een apart bestand of map per dag, week of project.
-2. **Commit en push je wijzigingen** via **GitHub Desktop**:
-   - Open GitHub Desktop
-   - Voeg je wijzigingen toe en geef een beschrijving
-   - Klik op "Commit to main"
-   - Klik op "Push to origin"
-3. **Werk documentatie bij**: Voeg projectnotities, feedback en andere belangrijke informatie toe zoals jij dat handig vindt.
-
-## ✅ Tips voor een goed logboek
-
-- Wees **duidelijk en specifiek** in je beschrijvingen.
-- Voeg **screenshots of code snippets** toe waar nodig.
-- Gebruik **Markdown-opmaak** voor een gestructureerde weergave.
-- Reflecteer regelmatig op je voortgang en noteer **wat je hebt geleerd**.
-
-## 🛠 Tools en technologieën
-
-Tijdens je stage werk je mogelijk met verschillende tools en frameworks. Noteer deze in je logboek, bijvoorbeeld:
-
-- **Programmeertalen**: JavaScript, PHP, Python
-- **Frameworks**: Laravel, React, Vue.js
-- **Tools**: GitHub, VS Code, Docker
-
-## 📣 Contact
-
-Heb je vragen of hulp nodig? Neem contact op met je stagebegeleider via Smartschool of e-mail.
-
-🚀 Veel succes met je stage en hou je logboek goed bij!
